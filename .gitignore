@@ -1,0 +1,12 @@
+
+# pixi environments
+.pixi
+*.egg-info
+
+# data directories
+rawdata
+procdata
+results
+
+# scratch code
+sandbox
